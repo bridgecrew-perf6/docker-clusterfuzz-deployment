@@ -1,0 +1,5 @@
+install_dependencies.bash eol=lf
+/scripts/make_config.sh eol=lf
+/scripts/deploy.sh eol=lf
+build-image.sh eol=lf
+run.sh eol=lf
